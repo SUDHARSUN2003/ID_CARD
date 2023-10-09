@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <title>
+            Profile
+        </title>
+    </head>
+    <body style="background-color: grey;">
+   
+
+     <div class="fileborder" style="background-color: rgb(246, 246, 249);width: 350px;height: 575px;border-radius: 12px; margin-left: 20%; ">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kZgFb-td2j1B_1ZVCbiKzHTm0eiie3leyrntMxlK&s" alt="no_Image" 
+     style="width: 320px; margin-left: 15px;margin-top: 10px;">
+        <img src="https://media.licdn.com/dms/image/D5603AQGh3fW-rFXyuA/profile-displayphoto-shrink_400_400/0/1689832947064?e=1702512000&v=beta&t=-ZTZ94CVvlXDLBurWZPXEyZksmVtDgNKvwwv1fgfnd4" alt="no_Image" style="width: 180px;margin-left: 90px;margin-top: 50px;">
+       <h4 style="font-size: 20px;color:rED;">
+        <pre >
+            SUDHARSUN S 
+           927621BEC219 </pre></h4>    
+        <img src="https://e1.pngegg.com/pngimages/100/176/png-clipart-famous-signatures-in-green-signature.png" alt=" no image " style="width: 80px;height: 25px;margin-left: 250px;">
+        <h3 style="margin-left: 250px;">Principal</h3>
+       
+       <h3 style="background-color:red; height: 80px;;border-radius: 12px;">
+       <pre style="color: white;font-size: 20px;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqXYPr3goZ9ouIBe-iqffFbelh2Ad5CnIJe11p1wv&s" 
+        style="width: 50px; margin-left: 300;">
+ B.E.-ECE             2021-2025 </pre>  
+       </h3>
+
+
+       </div>
+    </div>
+    <div class="fileborder" style="background-color: rgb(255, 255, 255); width: 350px;height: 500px;border-radius: 12px; margin-left: 20%;margin-top: 50px;">
+    <pre style="color: rgb(2, 9, 9); font-size: 19px; font-style: robot;">
+
+  D.O.B        :03.04.2003
+  Bld.Grp      :B+VE
+  Father's Name:Sitharthan M
+  Res Address  :
+  2/7, KOMBUPALAYAM, 
+  NADAYANUR POST,
+  KARUR
+  639117. 
+  9361573336
+
+  Email:sudharsun342003@gmail.com
+  Bus No :13
+  Place  :VELLAKALMEDU
+  </pre>
+  
+<pre style="font-size: 10px;">
+
+
+
+
+
+  Instruction :
+  1.Possession of identity is mandatory in MKCE campus
+  2.Loss of card should be reported immediately to office
+  3.If this card is lost or Found, kindly return to office
+  4.Do not bend this smart card
+</pre>
+    </div>
+     
+     </body>
+</html>
